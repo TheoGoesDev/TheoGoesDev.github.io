@@ -4,18 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/OBnIvqqpKFbZam9Wmj/giphy.gif" width="400"/>
-</div>
-
-<div id="badges" align="center">
- <a href="https://www.linkedin.com/in/thodoris-koutanis-30978560"/>
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
- </a>
-</div>
-
----
-
 ### 👨‍💻 About me:
 
 - I am a cloud engineer working in the Cloud Center of Excellence deparment in a large organization in the automotive industry
@@ -54,4 +42,3 @@ order: 4
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheoGoesDev&theme=graywhite&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoGoesDev)](https://github.com/anuraghazra/github-readme-stats)
-
